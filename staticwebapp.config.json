@@ -1,0 +1,5 @@
+{
+  "apiBuildCommand": "echo 'Skipping API build'",
+  "appBuildCommand": "next build",
+  "output_location": ".next"
+}
